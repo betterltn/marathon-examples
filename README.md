@@ -1,5 +1,5 @@
 # marathon-examples
-Sample marathon configurations for various applications
+Here is a Sample marathon configuration for starting nginx webserver with three container instances in HA mode. 
 
 1. Nginx cluster
 
@@ -54,3 +54,8 @@ Sample marathon configurations for various applications
 ]
 }
 
+
+
+
+
+You can see more examples at http://www.techietown.info/2016/12/marathon-lb-service-discovery-and-loadbalancing-for-containers-running-on-mesosmarathon/
